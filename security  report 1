@@ -1,0 +1,5 @@
+What : user run Apache HTTP Server version 2.2.8                                                                                                                                                                                                                                                                                                                                                                               
+When : 2026-02-01 : 10:35 pm
+How found : through nmap scan 
+Impact : so many vulnerabilities in this server, everything is fine but we now we analyzing 
+Fix : immediately stop the service and upgreade the new stable version 
